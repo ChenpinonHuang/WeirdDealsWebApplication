@@ -1,0 +1,43 @@
+{
+"proudct" : [
+    {
+      "productName" : "1,500 live ladybugs",
+      "price" : "$3.05",
+      "description" : "Who says you can't buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.",
+      "features" : "Bugs!!!",
+      "image " : "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/live-ladybugs.jpg?w=1024&ssl=1"
+    },
+
+    {
+      "productName" : "Uranium ore",
+      "price" : "$39.95": ,
+      "description" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks. And for more possessions to ditch, discover these 30 Home Decorations No One Over 30 Should Own.",
+      "features" : "Who don't like ore? I'm the one.",
+      "image " : "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/uranium-ore.jpg?w=1024&ssl=1"
+    },
+
+    {
+      "productName" : "A home mushroom farm",
+      "price" : "$22.85": ,
+      "description" : "Now you can grow your own fungus right at home—and not in between your toes!",
+      "features" : "Home made fungus",
+      "image " : "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/81WCBll2QvL._SL1500_.jpg?w=745&ssl=1"
+    },
+
+    {
+      "productName" : "Dill pickle lip balm",
+      "price" : "$11.95": ,
+      "description" : "Some people want their mouths to be minty fresh, or sweetly scented. And others just want their lips to have the distinct flavor of something that might accompany a pastrami sandwich.",
+      "features" : "Unforgettable taste in your life",
+      "image " : "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/81WCBll2QvL._SL1500_.jpg?w=745&ssl=1"
+    },
+
+    {
+      "productName" : "A baby mop",
+      "price" : "$22.99": ,
+      "description" : "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you.",
+      "features" : "Tools for lazy parents",
+      "image " : "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/baby-mop.jpg?w=1024&ssl=1"
+    }
+  ]
+}
